@@ -4,12 +4,11 @@ DOMAIN-KEYWORD,firstrade
 DOMAIN-KEYWORD,swissquote
 DOMAIN-KEYWORD,tipranks
 DOMAIN-KEYWORD,wise
-DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,tradingview
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,firstrade.com
 DOMAIN-SUFFIX,swissquote.com
 DOMAIN-SUFFIX,tipranks.com
 DOMAIN-SUFFIX,wise.com
-DOMAIN-SUFFIX,paypal.com
-DomainSuffix,tradingview.com
+DOMAIN-SUFFIX,tradingview.com
